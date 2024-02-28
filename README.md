@@ -8,6 +8,9 @@
 ```
 composer install
 ```
+
+[SteamController](https://github.com/nAa6666/laravel-steam-api/blob/main/app/Http/Controllers/SteamController.php)
+
 ## Result
 ![](./public/1.png)
 ![](./public/2.png)
